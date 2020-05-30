@@ -7,8 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="688a06c8-b990-436b-a10f-b87704f19497" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxz/junitperf/HtmlReporterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -347,7 +346,7 @@
       <updated>1590545518387</updated>
       <workItem from="1590545537707" duration="3175000" />
       <workItem from="1590548927609" duration="2770000" />
-      <workItem from="1590815982811" duration="3173000" />
+      <workItem from="1590815982811" duration="3483000" />
     </task>
     <task id="LOCAL-00001" summary="V1">
       <created>1590549970806</created>
@@ -360,7 +359,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9118000" />
+    <option name="totallyTimeSpent" value="9428000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
